@@ -13,6 +13,6 @@ Linkden: <a href="www.linkedin.com/in/ayyoub-katfi-96459523a/" target="_blank">L
 
 <div align="center">
 
-[![akatfi's 42 stats](https://badge.mediaplus.ma/binary/akatfi)](https://github.com/oakoudad/badge42)
+[![akatfi's 42 stats](https://badge.mediaplus.ma/binary/akatfi)](https://github.com/ayyoubkatfi)
 
 </div>
