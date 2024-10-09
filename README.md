@@ -6,6 +6,11 @@
 
 🚀 I look forward to working with you in future in order to make sure that we are able to do great things together.
 
+<img height="10" alt="java" src="./assets/images/dot.svg"> Ask me about anything, I am happy to help; <br />
+<img height="10" alt="java" src="./assets/images/dot.svg"> How to reach me: ayyoubkatfi44@gmail.com <br />
+<img height="10" alt="java" src="./assets/images/dot.svg"> Linkden: <a href="www.linkedin.com/in/ayyoub-katfi-96459523a/" target="_blank">LinkedIn</a> <br />
+
+
 <div align="center">
 
 [![akatfi's 42 stats](https://badge.mediaplus.ma/binary/akatfi)](https://github.com/oakoudad/badge42)
