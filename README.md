@@ -6,4 +6,8 @@
 
 🚀 I look forward to working with you in future in order to make sure that we are able to do great things together.
 
-<p align="center">[![akatfi's 42 stats](https://badge.mediaplus.ma/binary/akatfi)](https://github.com/oakoudad/badge42)</p>
+<div align="center">
+
+[![akatfi's 42 stats](https://badge.mediaplus.ma/binary/akatfi)](https://github.com/oakoudad/badge42)
+
+</div>
