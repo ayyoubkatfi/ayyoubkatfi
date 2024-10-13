@@ -8,7 +8,7 @@
 
 Ask me about anything, I am happy to help; <br />
 How to reach me:  <a href="mailto:ayyoubkatfi44@gmail.com">Email</a> <br />
-Linkden: <a href="https://www.linkedin.com/in/ayyoub-katfi-96459523a" target="_blank">LinkedIn</a> <br />
+Linkden Profile: <a href="https://www.linkedin.com/in/ayyoub-katfi-96459523a" target="_blank">LinkedIn</a> <br />
 
 
 <div align="center">
