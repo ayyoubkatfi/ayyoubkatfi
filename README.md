@@ -16,6 +16,3 @@ Linkden Profile: <a href="https://www.linkedin.com/in/ayyoub-katfi-96459523a" ta
 [![akatfi's 42 stats](https://badge.mediaplus.ma/binary/akatfi)](https://github.com/ayyoubkatfi)
 
 </div>
-<div align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayyoubkatfi&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
