@@ -7,7 +7,7 @@
 🚀 I look forward to working with you in future in order to make sure that we are able to do great things together.
 
 Ask me about anything, I am happy to help; <br />
-How to reach me:  <a href="mailto:ayyoubkatfi44@gmail.com">Email</a> <br />
+How to reach me:  <a href="mailto:ayyoub.katfi@gmail.com">Email</a> <br />
 Linkden Profile: <a href="https://www.linkedin.com/in/ayyoub-katfi-96459523a" target="_blank">LinkedIn</a> <br />
 
 
