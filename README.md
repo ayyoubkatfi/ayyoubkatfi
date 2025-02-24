@@ -1,4 +1,4 @@
-👋 Hello! My name is Ayyoub Katfi, an infinite thinker and a software developer who has passion for creating working solutions while ensuring their effectiveness and scalability. I have experience with Problem solving and C/C++, JavaScript/React, pyhton/Django and Php/Laravel, hence I enjoy simplifying complex things by writing elegant codes.
+👋 Hello! My name is Ayyoub Katfi, a software developer who has passion for creating working solutions while ensuring their effectiveness and scalability. I have experience with Problem solving and C/C++, JavaScript(React/NextJs), pyhton/Django and Php/Laravel, hence I enjoy simplifying complex things by writing elegant codes.
 
 💻 Such kind of assignments interests me because it enables me to work on technologies that I have not come across before. It does not matter whether it is website construction, participating in open source projects or attending any new technologies, I am keen on doing it and making sharing the knowledge.
 
