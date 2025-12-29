@@ -4,7 +4,7 @@ Hey, I’m Ayyoub Katfi, a software developer and a 1337 student, always fascina
 
 I’m currently focusing on backend architecture, containerized environments, and scalable web app design.
 
-Always learning, always improving — currently exploring system design and modern backend patterns.
+Always learning, always improving currently exploring system design and modern backend patterns.
 
 I’m happy to help, let’s connect and build something great together. <br />
 How to reach me:  <a href="mailto:ayyoub.katfi@gmail.com">Email</a> <br />
