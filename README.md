@@ -1,6 +1,6 @@
 Hey, I’m Ayyoub Katfi, a software developer and a 1337 student, always fascinated by making scalable web applications and backend systems.
 
-💡 I enjoy turning complex problems into clean, maintainable code-from designing robust APIs down to crafting seamless user experiences.
+I enjoy turning complex problems into clean, maintainable code-from designing robust APIs down to crafting seamless user experiences.
 
 I’m currently focusing on backend architecture, containerized environments, and scalable web app design.
 
